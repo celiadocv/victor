@@ -4,4 +4,4 @@
 - trabalhando com *javascript* no p5js 👩‍💻👩‍💻👩‍💻
 - para contato 00001101266983sp@al.educacao.sp.gov.br🤗🤗
 
-- (https://media1.tenor.com/m/W2IE2CZeKggAAAAC/schools-out.gif)
+  [](https://media1.tenor.com/m/W2IE2CZeKggAAAAC/schools-out.gif)
